@@ -1,0 +1,27 @@
+ 
+#noti {
+	font-size: 18px;
+}
+#noti {
+	display: inline-block;
+	text-align: center;
+	background-color: #eb0f0f; 
+	border-radius: 50%;
+	color: #ffe7e7;
+	font-size: 12px;
+	line-height: 16px;
+	width: 16px;
+	height: 16px;
+	font-weight: bold;
+	/* position: absolute; */
+	top: 22px;
+	right: 0;
+}
+
+.sortbutton {
+	display: contents;
+	color: black;
+	padding:inherit; 
+	white-space: nowrap;
+	
+}
